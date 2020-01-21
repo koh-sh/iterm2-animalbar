@@ -10,13 +10,13 @@ A Python script which enables animals passing through your terminal.
 
 ## Install
 
-Clone
+- Clone
 
 ```
 git clone git@github.com:koh-sh/iterm2-animalbar.git
 ```
 
-Install(creates symbolic link for the script.)
+- Install(creates symbolic link for the script.)
 
 ```
 cd iterm2-animalbar && ./install.sh
